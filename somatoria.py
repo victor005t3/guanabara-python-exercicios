@@ -1,5 +1,7 @@
 import os
 
+# Arquivo simples para somar dois números e mostrar o resultado.
+
 os.system('cls')
 
 n1 = input('Digite um número: ')
