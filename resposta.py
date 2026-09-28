@@ -11,3 +11,5 @@ elif nome == 'Maria' or nome == 'Ana' or nome == 'Francisca' or nome == 'Júlia'
 else:
     print('Bem vindo/a, {}.'.format(nome))
 print ('É um prazer te conhecer')
+
+n1 = input('Digite um número:')

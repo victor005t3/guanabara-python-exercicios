@@ -7,4 +7,3 @@ Esta pasta é uma coleção de pequenos exercícios de Python do professor Gusta
 - `somatoria.py` - lê dois números e mostra a soma.
 - `dissecador.py` - lê qualquer valor e mostra o tipo e as características dele (número, letra, maiúsculo, etc.).
 - `resposta.py` - lê um nome e dá uma saudação (com mensagem especial para nomes populares no Brasil).
-- `estudo.py` - arquivo de estudo (ainda vazio).

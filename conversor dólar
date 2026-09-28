@@ -1,0 +1,14 @@
+import os
+
+os.system('cls')
+
+d = 5.23
+
+r = input('Quantos reais você tem?: ')
+if '.' in r:
+    r = float(r)
+else:
+    r = int(r)
+
+res = r / d
+print('Você tem {} reais ou {} dólares'.format(r, res))
